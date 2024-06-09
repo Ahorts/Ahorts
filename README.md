@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello Friend :)
+I am Godsway Ahortor. I just started out on my tech and cybersecurity journey. 
+Well. That's it for now. More updates later!
 <!--
 **Ahorts/Ahorts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
