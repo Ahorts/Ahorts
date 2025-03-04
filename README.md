@@ -29,7 +29,7 @@
 
 
 ## 📊 Activity
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahorts&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-lemon-ten.vercel.app?user=Ahorts&theme=tokyonight)](https://git.io/streak-stats)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
