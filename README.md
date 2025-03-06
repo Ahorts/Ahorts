@@ -30,7 +30,7 @@
 
 ### 📊 Activity
 [![GitHub Streak](https://github-readme-streak-stats-lemon-ten.vercel.app?user=Ahorts&theme=tokyonight)](https://git.io/streak-stats)
- ![Top Langs](https://github-readme-stats-nine-sable-10.vercel.app/api/top-langs/?username=Ahorts&layout=compact&langs_count=8&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats-nine-sable-10.vercel.app/api/top-langs/?username=Ahorts&layout=compact&langs_count=10&theme=tokyonight)
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
