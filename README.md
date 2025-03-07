@@ -28,10 +28,10 @@
  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 
-### 📊 Activity
-[![GitHub Streak](https://github-readme-streak-stats-lemon-ten.vercel.app?user=Ahorts&theme=tokyonight)](https://git.io/streak-stats)
- ![Top Langs](https://github-readme-stats-nine-sable-10.vercel.app/api/top-langs/?username=Ahorts&layout=compact&langs_count=8&theme=tokyonight)
-### ✍️ Quote
+## 📊 Activity
+[![GitHub Streak](https://github-readme-streak-stats-lemon-ten.vercel.app?user=Ahorts&theme=tokyonight&card_height=214)](https://git.io/streak-stats)
+ ![Top Langs](https://github-readme-stats-nine-sable-10.vercel.app/api/top-langs/?username=Ahorts&layout=compact&langs_count=10&theme=tokyonight&size_weight=0.7&count_weight=0.3&exclude_repo=github-readme-streak-stats)
+## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
