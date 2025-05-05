@@ -28,7 +28,7 @@
 
 
 ## 📊 Activity
-[![GitHub Streak](https://github-readme-streak-stats-lemon-ten.vercel.app?user=Ahorts&theme=tokyonight&card_height=214)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-lemon-ten.vercel.app?user=Ahorts&theme=tokyonight&card_height=200)](https://git.io/streak-stats)
  ![Top Langs](https://github-readme-stats-nine-sable-10.vercel.app/api/top-langs/?username=Ahorts&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.6&count_weight=0.4&exclude_repo=github-readme-streak-stats)
  <a href="https://app.daily.dev/ahorts"><img src="./devcard.png" width="500" alt="Ahorts's Dev Card"/></a>
 ## ✍️ Quote
