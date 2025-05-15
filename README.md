@@ -2,8 +2,8 @@
 
 
 # Hello There 👋
-- 🔭 I am Godsway Ahortor.
-- 💬 I just started out on my tech and cybersecurity journey. 
+- 🔭 I'm Godsway.
+- 💬 Cyber security enthusiast.
 - 🤔 Looking for like-minded developers.
 
 
